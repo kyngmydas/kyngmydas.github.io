@@ -5,9 +5,7 @@ body {color:white;
   /* css comment boooyyyy */
 color: blue;}
 
-.gray {background-color: white;}
-
-#imprtnt .first big {color: red;}
+.gray {background-color: rgba(255,255,255,0.5);}
 
 .one {font-style: oblique;}
 p.two {font-style: italic;}
