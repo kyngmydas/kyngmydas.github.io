@@ -1,0 +1,14 @@
+body {color:white;
+  background-color:gray;}
+
+.first {background-color: white;
+  /* css comment boooyyyy */
+color: blue;}
+
+.gray {background-color: white;}
+
+#imprtnt .first big {color: red;}
+
+.one {font-style: oblique;}
+p.two {font-style: italic;}
+p.three {font-style: normal;}
